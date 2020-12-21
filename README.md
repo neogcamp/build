@@ -12,5 +12,7 @@ This guide will be most useful if you have done my courses, every idea is based 
 
 ## stargazing as a community 
 
+If you press that star ⭐ button, we get more stars in the sky! 😊🥳
+
 [![Stargazers over time](https://starchart.cc/tanaypratap/build.svg)](https://starchart.cc/tanaypratap/build)
       
