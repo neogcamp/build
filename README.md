@@ -10,3 +10,7 @@ This guide will be most useful if you have done my courses, every idea is based 
 
 - Aim is to get you more practice. Focus is more on basics. Try to do these yourself and if you need help our [Discord server](https://bit.ly/tanaydiscrod) is always there with 5000+ beginner and intermediate programmers like you hanging out together. 
 
+## stargazing as a community 
+
+[![Stargazers over time](https://starchart.cc/tanaypratap/build.svg)](https://starchart.cc/tanaypratap/build)
+      
