@@ -19,10 +19,13 @@
 Your output should look something like this `1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16, 17 ..... `
 
 8. Print the following star pattern :-
-   - \*\*
-     ***
-     ***
-     ***
+
+   \* \
+   \* \* \
+   \* \* \* \
+   \* \* \* \* \
+   \* \* \* \* \* 
+
 9. Write a program to take a number input from user and print multiplication table 12 times for that number.
 
 10. Write a program to return a Fibonacci series : 0,1,1,2,3,5,8,13,21....
