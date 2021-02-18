@@ -1,4 +1,4 @@
-# Objects
+# Objects and Object Oriented Programming
 
 **Q. 1)** Given an array of objects of student's marks:
 - Print the name and total marks of each student.
