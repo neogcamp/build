@@ -1,3 +1,5 @@
+# Objects
+
 **Q. 1)** Given an array of objects of student's marks:
 - Print the name and total marks of each student.
 - Print the name of student whose total marks is highest.
