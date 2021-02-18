@@ -1,4 +1,6 @@
-# Easy
+# Operators, Branching, Loops
+
+## Easy
 
 1. Write a program to add 5 numbers. The value of numbers are num1=5, num2=13, num3=7, num4=21 and num5=48.
 
@@ -12,7 +14,7 @@
 
 6. Write program to take a month as an input from the user and find out whether the month has 31 days or not.
 
-# Intermediate
+## Intermediate
 
 7. Fizzbuzz - Write a program to return an array from 1 to 100. But for every multiple of 3, replace the number with "Fizz", for every multiple of 5, replace the number with "Buzz" and for every multiples of 3 & 5, replace with "FizzBuzz".
 
