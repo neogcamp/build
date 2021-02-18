@@ -1,4 +1,6 @@
-# Easy
+# Functions
+
+## Easy
 
 1. Given a and b, your function should return the value of a<sup>b</sup>  
 **Example:**  
@@ -23,7 +25,7 @@
 **Example:**  
 **Input:** `typeOfTriangle(30, 60, 90)` ––> **Output:** `Scalen Triangle`
 
-# Medium
+## Medium
 
 1. Given an array, your function should return the length of the array.  
 **Example:**  
@@ -44,7 +46,7 @@
 **Example:**  
 **Input:** `minDate('02/05/2021', '24/01/2021')` ––> **Output:** `24/01/2021`
 
-# Advanced
+## Advanced
 
 1. Write a function which generates a secret code from a given string, by shifting characters of alphabet by N places.
 **Example:**  
