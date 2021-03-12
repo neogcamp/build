@@ -26,9 +26,9 @@
 
     Formula : `0.5 * m * v * v`
 
-1. Write a program to convert Fahrenheit to Celsius. For Celsius to Fahrenheit conversion use:
-   `T = 9*T/5 + 32`
-   'T' is the temperature on the Celsius scale.
+1. Write a program to convert Fahrenheit to Celsius. For Fahrenheit to Celsius conversion use:
+   `T = (T - 32) 9/5`
+   'T' is the temperature on the Fahrenheit scale.
 
     ```
     Input: 56
