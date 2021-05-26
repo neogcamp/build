@@ -8,7 +8,7 @@ This guide will be most useful if you have done my courses, every idea is based 
 
 - These ideas are not to be taken as a stand alone app. For an internship, these apps might look good on your portfolio, but for full time jobs these are not the app ideas you would want to build. 
 
-- Aim is to get you more practice. Focus is more on basics. Try to do these yourself and if you need help our [Discord server](https://bit.ly/tanaydiscrod) is always there with 5000+ beginner and intermediate programmers like you hanging out together. 
+- Aim is to get you more practice. Focus is more on basics. Try to do these yourself and if you need help our [Discord server](https://bit.ly/tanaydiscrod) is always there with 14000+ beginner and intermediate programmers like you hanging out together. 
 
 ## stargazing as a community 
 
