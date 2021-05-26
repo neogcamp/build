@@ -1,4 +1,4 @@
-# Sample interview question
+# Sample interview questions
  
 1. Give me your introduction and tell me why do you want to join neogcamp? 
 
