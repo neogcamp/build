@@ -32,7 +32,7 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 1. Create two objects with name, age, and yuga as `Ram, 25, Treta. Krishna, 31, Dwapar`. 
 Write a function which takes two objects and return the person with more age.
 
-1. Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar.Write a function which takes two objects and return the person with more `power`. 
+1. Create two objects with name, age, and power as Ram, 2500, 10000. Krishna, 2325, 9500.Write a function which takes two objects and return the person with more `power`. 
 
 1. Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar. 
 Say if every character in name is worth 35 power points.
