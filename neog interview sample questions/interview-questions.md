@@ -12,7 +12,7 @@
 
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
 
-1. Create a web app with a button loded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
+1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
 
 1. Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc.
 
