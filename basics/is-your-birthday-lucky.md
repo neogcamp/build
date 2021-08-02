@@ -14,4 +14,4 @@
 Use [modulo operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder) to separate digits.
 
 ## stack
-Can use CLI, vanillaJS and or React for this. 
+Can use vanillaJS and or React for this. 
