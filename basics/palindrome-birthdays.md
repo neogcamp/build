@@ -10,3 +10,4 @@
      - Tell them by how many days they missed it.
 - show a gif when you're doing the calculation to show that numbers are being crunched.
 - problem with this is that it will not slow your computer, explore setTimeout in JS to produce an artificial delay. 
+
