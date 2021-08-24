@@ -35,7 +35,7 @@
     Output: 13.33333
     ```
 
-1. Calculate the area, perimeter of a s1.re of side 'a'. Also, calculate the surface area and the volume of a cube of side 'a'.
+1. Calculate the area, perimeter of a square of side 'a'. Also, calculate the surface area and the volume of a cube of side 'a'.
 
     Formula :
 
