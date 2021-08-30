@@ -21,6 +21,8 @@
 
 1. Here's an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message.
 
+    API link - https://BROKENlessonfourapi.tanaypratap.repl.co/translate/yoda.json
+
 1. Here's an API, it can give two errors. Either 404, or 401. If the error is 404, show the user `'page not found'` and if the error is 401, show the user `'you are not logged in'`.
 
 1. Open your Github repo. Make a small change. And create a PR. Explain what you understand by Git, what's PR etc.
