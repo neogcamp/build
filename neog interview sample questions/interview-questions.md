@@ -2,7 +2,7 @@
  
 1. Give me your introduction and tell me why do you want to join neogcamp? 
 
-1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
+1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x, /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
 
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
 
