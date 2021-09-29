@@ -21,9 +21,9 @@
 **Input:** `findMax(3,5)` ––> **Output:** `5`  
 **Input:** `findMax(3,5,9,1)` ––> **Output:** `9`  
 *(Hint: Lookup rest parameters in JavaScript)*
-1. Given three angles of a triange, your function should return if it is a scalen, isosceles, equilateral triangle or not a triangle at all.
+1. Given three angles of a triange, your function should return if it is a scalene, isosceles, equilateral triangle or not a triangle at all.
 **Example:**  
-**Input:** `typeOfTriangle(30, 60, 90)` ––> **Output:** `Scalen Triangle`
+**Input:** `typeOfTriangle(30, 60, 90)` ––> **Output:** `Scalene Triangle`
 
 ## Medium
 
