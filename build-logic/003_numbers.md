@@ -22,7 +22,7 @@
     Output: 12
     ```
 
-1. Write a program to calculate the kinetic energy of a body with mass 'm' and volume 'v'.
+1. Write a program to calculate the kinetic energy of a body with mass 'm' and velocity 'v'.
 
     Formula : `0.5 * m * v * v`
 
