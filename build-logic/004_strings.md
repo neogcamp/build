@@ -6,7 +6,7 @@
 
 1. Write a program that reads two strings and append first string to the second. So if first string is Good second string is Morning , the program should print MorningGood
 
-1. Program that reads string and count number of characters present in the string
+1. Program that reads string and counts number of characters present in the string
 
 1. Write a program that converts string like "124" to 124
 
@@ -18,7 +18,7 @@
 
 1. A program that counts number of vowels and consonants in a String?
 
-1. Write a program which receives a string str that calculates the length of a string and return true if the length is greater than 7 without using strlen()
+1. Write a program which receives a string str then calculates the length of the string and return true if the length is greater than 7 without using strlen()
 
 1. Write a program that takes two strings and copies smaller string into bigger string
 
