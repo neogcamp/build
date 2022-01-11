@@ -12,7 +12,7 @@
     - [3,5,2,9,4] = 3+5+2+9+4 = 23
     - [6,2,8,1,3] = 6+2+8+1+3 = 20
     - Final Output : 20+23 = 43
-6. Find number of constants and vowels in a string.
+6. Find number of consonants and vowels in a string.
 7. Shift an array by X to right.
     - Example [1,2,3,4,5] after shifting to right [5,1,2,3,4]
 
