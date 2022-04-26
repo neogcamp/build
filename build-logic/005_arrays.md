@@ -15,9 +15,13 @@
 6. Find number of constants and vowels in a string.
 7. Shift an array by X to right.
     - Example [1,2,3,4,5] after shifting to right [5,1,2,3,4]
+8. Given an array of numbers, pick any two numbers `a`  and `b`, we could get the difference by `Math.abs(a - b)`  . Write a function to get the largest difference in the array.
 
 ## Advanced
 
 1. Find the sum of two matrix.
 1. Display transpose of matrix. Explaination https://www.varsitytutors.com/linear_algebra-help/the-transpose
 1. Find Identity matrix. Explanation https://www.varsitytutors.com/hotmath/hotmath_help/topics/identity-matrix
+
+1. Given an array `arr` with different counts of number we have to find the number with most frequency and return it. 
+If there are two or more numbers with same most frequency the return the biggest number.

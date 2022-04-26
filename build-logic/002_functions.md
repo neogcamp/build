@@ -25,6 +25,26 @@
 **Example:**  
 **Input:** `typeOfTriangle(30, 60, 90)` ––> **Output:** `Scalene Triangle`
 
+1. Given an object `obj`, write a function to invert its `key` and `value` for each entries. Inversion will result in value being used as key and key as value.  
+**Note:- There will be no repeated values to maintain the uniqueness.**  
+**Example:**  
+```javascript
+  // Input:
+obj = {
+  "name" : "John",
+  "age" : 51,
+  "hairColor" : "black",
+  "eyes" : "round"
+}
+
+// Output:
+obj = {
+  "John" : "name",
+  "51" : "age",
+  "black" : "hairColor",
+  "round" : "eyes"
+}
+```
 ## Medium
 
 1. Given an array, your function should return the length of the array.  
