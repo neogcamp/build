@@ -27,14 +27,6 @@
     Input: nums = [2,2,1,1,1,2,2]
     Output: 2
     ```
-11. Given a string `s`, find the first non-repeating character in it and return its index If it does not exist, return `-1`
-    ```javascript
-    Input: s = "neogcamp"
-    Output: 0
-
-    Input: s = "nneeooggccaammpp"
-    Output: -1
-    ``` 
 
 ## Advanced
 
