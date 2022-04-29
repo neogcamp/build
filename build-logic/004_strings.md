@@ -45,3 +45,12 @@
 1. Write a program to toggle case of each character of the string "good afternoon" (example: "neogcamp" ⇒ "nEoGcAmP" )
 
 1. Given a string "how was your day?" and a word "how", write a program that removes the occurrence of the specified word from given sentence. ( input: string⇒"programming camp are amazing",word⇒ "programming"; output:" camp are amazing")
+
+1. Given a string `s`, find the first non-repeating character in it and return its index If it does not exist, return `-1`
+    ```javascript
+    Input: s = "neogcamp"
+    Output: 0
+
+    Input: s = "nneeooggccaammpp"
+    Output: -1
+    ``` 
